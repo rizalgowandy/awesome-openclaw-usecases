@@ -4,7 +4,7 @@ You want to build a product but don't know what to build. Or you have a business
 
 ## What It Does
 
-- Researches any topic across Reddit and X over the last 30 days using the [Last 30 Days](https://github.com/matvanhorde/last-30-days) skill
+- Researches any topic across Reddit and X over the last 30 days using the [Last 30 Days](https://github.com/mvanhorn/last30days-skill/) skill
 - Surfaces real challenges, complaints, and feature requests people are posting about
 - Helps you identify product opportunities from genuine user pain points
 - Takes it a step further: ask OpenClaw to build an MVP that solves one of those challenges
@@ -16,14 +16,14 @@ Most aspiring entrepreneurs struggle with the "what to build" problem. Market re
 
 ## Skills You Need
 
-- [Last 30 Days](https://github.com/matvanhorde/last-30-days) skill by Matt Van Horde
+- [Last 30 Days](https://github.com/mvanhorn/last30days-skill/) skill by Matt Van Horde
 - Telegram or Discord integration for receiving research reports
 
 ## How to Set It Up
 
 1. Install the Last 30 Days skill:
 ```text
-Install this skill: https://github.com/matvanhorde/last-30-days
+Install this skill: https://github.com/mvanhorn/last30days-skill/
 ```
 
 2. Run research on any topic:
@@ -76,9 +76,9 @@ OpenClaw builds the app. You ship it. You have a product.
 
 ## Based On
 
-Inspired by [Alex Finn's video on life-changing OpenClaw use cases](https://www.youtube.com/watch?v=41_TNGDDnfQ) and the [Last 30 Days skill](https://github.com/matvanhorde/last-30-days) by Matt Van Horde.
+Inspired by [Alex Finn's video on life-changing OpenClaw use cases](https://www.youtube.com/watch?v=41_TNGDDnfQ) and the [Last 30 Days skill](https://github.com/mvanhorn/last30days-skill/) by Matt Van Horde.
 
 ## Related Links
 
-- [Last 30 Days Skill](https://github.com/matvanhorde/last-30-days)
+- [Last 30 Days Skill](https://github.com/mvanhorn/last30days-skill/)
 - [OpenClaw Skills Directory](https://github.com/openclaw/skills)

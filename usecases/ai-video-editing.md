@@ -6,12 +6,12 @@ This use case turns video editing into a conversation. Describe what you want ch
 
 ## What You Can Do
 
-• Trim, cut, and merge clips by describing timestamps in plain language
-• Add background music with automatic audio ducking
-• Generate and burn subtitles from speech (50+ languages)
-• Color grade footage ("make it warmer", "match the look of the first clip")
-• Crop to vertical for TikTok/Reels/Shorts
-• Batch process multiple files with the same edit
+- Trim, cut, and merge clips by describing timestamps in plain language
+- Add background music with automatic audio ducking
+- Generate and burn subtitles from speech (50+ languages)
+- Color grade footage ("make it warmer", "match the look of the first clip")
+- Crop to vertical for TikTok/Reels/Shorts
+- Batch process multiple files with the same edit
 
 ## Skills You Need
 
@@ -47,3 +47,4 @@ The agent handles the API calls, polls for completion, and delivers the finished
 - Be specific about timestamps and output format ("export as mp4 at 1080p")
 - For subtitle work, mention the source language if it's not English
 - Color grading works best with reference descriptions ("warm sunset tones") rather than technical values
+- Avoid uploading sensitive footage (faces, IDs, confidential screens) unless you've reviewed the provider's data retention and privacy policy
